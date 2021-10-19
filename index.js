@@ -1,4 +1,5 @@
 // Binary search
+//code-along from Big O Notation full course, developed by selikapro, at https://www.youtube.com/watch?v=Mo4vesaut8g (freeCodeCamp)
 let arr = []
 
 let start = 0 //first index of array to the function 
